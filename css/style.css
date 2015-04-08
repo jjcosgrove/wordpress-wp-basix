@@ -1,0 +1,25 @@
+.toplevel_page_wp-basix th {
+    display: none;
+}
+.toplevel_page_wp-basix .form-table td {
+    margin: 0;
+    padding: 0;
+}
+.toplevel_page_wp-basix .wpb-module-settings {
+    width: 100%;
+}
+.toplevel_page_wp-basix .wpb-module-fields-container {
+    margin-top: 14px !important;
+    width: 100px;
+}
+.toplevel_page_wp-basix .wpb-module-more-info {
+    width: 140px;
+    margin-top: 20px;
+}
+.toplevel_page_wp-basix .wpb-module-more-info-details {
+    display: none;
+}
+.toplevel_page_wp-basix .wpb-list {
+    margin-left: 20px;
+    list-style-type: disc;
+}
