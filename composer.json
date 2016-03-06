@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-wp-basix",
+  "type": "wordpress-plugin",
+  "description": "A WordPress plugin that allows users to enable/disable features by way of checkboxes",
+  "homepage": "https://github.com/jjcosgrove/wordpress-wp-basix",
+  "keywords": ["wordpress","plugin"],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "authors": [
+    {
+      "name": "Jonathan James Cosgrove",
+      "homepage": "http://www.jjcosgrove.com"
+    }
+  ]
+}
